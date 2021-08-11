@@ -4,3 +4,4 @@
 - [x] Python
 - [x] JS/TS
 - [x] Rust
+- [x] Ruby
