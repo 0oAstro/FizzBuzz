@@ -3,8 +3,7 @@ package main
 import "fmt"
 
 func fizzbuzz(limit int) {
-  //I am ignoring 0 as it is always divisible XD
-  i := 1
+  i := 0
   for i <= limit{
     if i % 3 == 0 && i % 5 == 0{
       fmt.Println("fizzbuzz")
