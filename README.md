@@ -3,3 +3,4 @@
 - [x] GO
 - [x] Python
 - [x] JS/TS
+- [x] Rust
