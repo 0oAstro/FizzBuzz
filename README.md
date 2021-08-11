@@ -5,3 +5,4 @@
 - [x] JS/TS
 - [x] Rust
 - [x] Ruby
+- [x] Lua
