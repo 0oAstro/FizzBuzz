@@ -15,6 +15,9 @@ func fizzbuzz(limit int) {
     else if i % 3 == 0{
       fmt.Println("fizz")
     }
+    else{
+      fmt.Println(i)
+    }
     i++
   }
 }
