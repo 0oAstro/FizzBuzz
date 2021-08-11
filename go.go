@@ -9,10 +9,10 @@ func fizzbuzz(limit int) {
     if i % 3 == 0 && i % 5 == 0{
       fmt.Println("fizzbuzz")
     }
-    if i % 5 == 0{
+    else if i % 5 == 0{
       fmt.Println("buzz")
     }
-    if i % 3 == 0{
+    else if i % 3 == 0{
       fmt.Println("fizz")
     }
     i++
