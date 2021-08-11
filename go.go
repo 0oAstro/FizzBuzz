@@ -20,13 +20,14 @@ func fizzbuzz(limit int) {
 }
 
 func main() {
+  fizzbuzz(100)
   // display output in the next line
-  fmt.Print("Enter limit: ")
+  //fmt.Print("Enter limit: ")
   
   // var then variable name then variable type
-  var limit int
+  //var limit int
   
   // Taking input from user
-  fmt.Scanln(&limit)
-  fizzbuzz(limit)
+  //fmt.Scanln(&limit)
+  //fizzbuzz(limit)
 }
