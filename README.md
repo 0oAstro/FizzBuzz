@@ -8,3 +8,4 @@
 - [x] Lua
 - [x] LOLCode
 - [x] CSharp
+- [x] Lisp
