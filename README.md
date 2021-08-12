@@ -6,3 +6,4 @@
 - [x] Rust
 - [x] Ruby
 - [x] Lua
+- [x] LOLCode
