@@ -9,3 +9,4 @@
 - [x] LOLCode
 - [x] CSharp
 - [x] Lisp
+- [x Java
